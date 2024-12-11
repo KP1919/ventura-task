@@ -1,0 +1,85 @@
+  {
+    "ipos": [
+      {
+        "id": "go-air",
+        "company": "GO AIR",
+        "price_range": { "min": 100, "max": 200, "currency": "INR" },
+        "issue_size": { "min": 3600, "max": 3700, "unit": "Cr" },
+        "listing_issue_size": { "value": 3600, "unit": "Cr" },
+        "min_investment": 50000,
+        "lot_size": { "shares_per_lot": 100, "lots": 5 },
+        "issue_dates": { "start": "2022-12-12", "end": "2022-12-15" },
+        "ipo_issue_dates": { "start": "2022-10-04", "end": "2022-10-07" },
+        "listed_on": "2022-12-15",
+        "listed_price": { "value": 160, "currency": "INR" },
+        "listed_gains": { "absolute": 10, "percentage": 10.0 },
+        "logo_image": "/images/go-air.jpeg",
+        "about_us": [
+          "Air India, India’s flagship carrier, boasts a legacy of over 90 years of aviation excellence. Known for its extensive domestic and international network, the airline connects travelers to over 70 international and 100 domestic destinations. Air India’s hospitality reflects Indian culture, offering personalized service and premium in-flight experiences.",
+          "Recently under the ownership of the Tata Group, Air India is undergoing a major transformation, focusing on modernization and enhanced customer satisfaction. With a renewed vision, the airline aims to reclaim its position as a global aviation leader while continuing to be a proud symbol of India’s aviation heritage."
+        ],
+        "steps": [
+          { "title": "Bidding starts", "date": "2024-11-12" },
+          { "title": "Bidding ends", "date": "2024-11-15" },
+          { "title": "Allotment finalization", "date": "2024-11-18" },
+          { "title": "Refund initiation", "date": "2024-11-19" },
+          { "title": "Demat transfer", "date": "2024-12-18" },
+          { "title": "Listing date", "date": "2024-12-21" }
+        ]
+      },
+      {
+        "id": "bajaj-energy",
+        "company": "BAJAJ ENERGY",
+        "price_range": { "min": 25, "max": 40, "currency": "INR" },
+        "issue_size": { "min": 2500, "max": 3000, "unit": "Cr" },
+        "listing_issue_size": { "value": 3600, "unit": "Cr" },
+        "min_investment": 50000,
+        "lot_size": { "shares_per_lot": 100, "lots": 5 },
+        "issue_dates": { "start": "2022-12-12", "end": "2022-12-15" },
+        "ipo_issue_dates": { "start": "2022-10-04", "end": "2022-10-07" },
+        "listed_on": "2022-12-15",
+        "listed_price": { "value": 150, "currency": "INR" },
+        "listed_gains": { "absolute": 10, "percentage": 10.0 },
+        "logo_image": "/images/bajaj-energy.jpg",
+        "about_us": [
+          "Bajaj Energy is a prominent player in India’s power generation sector, specializing in thermal power plants. With a commitment to providing reliable and affordable electricity, the company plays a crucial role in meeting India’s growing energy demands. Bajaj Energy operates state-of-the-art power plants designed for efficiency and sustainability.",
+          "The company emphasizes innovative practices and environmentally responsible operations, contributing to India's energy independence. Bajaj Energy’s focus on growth and efficiency ensures its position as a key contributor to India’s infrastructure development and economic progress."
+        ],
+        "steps": [
+          { "title": "Bidding starts", "date": "2024-11-12" },
+          { "title": "Bidding ends", "date": "2024-12-15" },
+          { "title": "Allotment finalization", "date": "2024-12-18" },
+          { "title": "Refund initiation", "date": "2024-12-18" },
+          { "title": "Demat transfer", "date": "2024-12-18" },
+          { "title": "Listing date", "date": "2024-12-21" }
+        ]
+      },
+      {
+        "id": "oyo",
+        "company": "OYO",
+        "price_range": { "min": 100, "max": 200, "currency": "INR" },
+        "issue_size": { "min": 3600, "max": 3700, "unit": "Cr" },
+        "listing_issue_size": { "value": 3600, "unit": "Cr" },
+        "min_investment": 50000,
+        "lot_size": { "shares_per_lot": 100, "lots": 5 },
+        "tobe_announced": "To Be Announced",
+        "listed_on": "2022-12-15",
+        "listed_price": { "value": 150, "currency": "INR" },
+        "listed_gains": { "absolute": 10, "percentage": 10.0 },
+        "logo_image": "/images/oyo.png",
+        "about_us": [
+          "OYO, one of the world’s leading hospitality chains, has revolutionized budget accommodations by offering affordable, quality stays with a tech-driven approach. Founded in 2013, the company focuses on standardizing unbranded hotels and providing seamless booking experiences for travelers. OYO’s innovative model and global reach have made it a preferred choice for business and leisure travelers alike.",
+          "With a presence in over 80 countries, OYO combines technology, customer-centric services, and operational excellence to redefine the hospitality industry. By partnering with small and medium-sized hotels, the brand ensures uniform quality standards and affordability, making travel accessible for everyone."
+        ],
+        "steps": [
+          { "title": "Bidding starts", "date": "2024-11-12" },
+          { "title": "Bidding ends", "date": "2024-11-15" },
+          { "title": "Allotment finalization", "date": "2024-11-18" },
+          { "title": "Refund initiation", "date": "2024-12-18" },
+          { "title": "Demat transfer", "date": "2024-12-18" },
+          { "title": "Listing date", "date": "2024-12-21" }
+        ]
+      }
+    ]
+  }
+  
